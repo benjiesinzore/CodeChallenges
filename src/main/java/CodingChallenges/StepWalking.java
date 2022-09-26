@@ -1,4 +1,4 @@
-package Gigster;
+package CodingChallenges;
 
 public class StepWalking {
 

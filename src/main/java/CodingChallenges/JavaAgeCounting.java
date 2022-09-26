@@ -1,4 +1,4 @@
-package Gigster;
+package CodingChallenges;
 
 import java.io.IOException;
 import java.io.InputStream;
